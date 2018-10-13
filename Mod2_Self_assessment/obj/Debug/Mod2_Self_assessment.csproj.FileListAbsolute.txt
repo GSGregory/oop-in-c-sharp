@@ -1,0 +1,7 @@
+C:\Users\gregory\source\repos\Mod2_Self_assessment\Mod2_Self_assessment\bin\Debug\Mod2_Self_assessment.exe.config
+C:\Users\gregory\source\repos\Mod2_Self_assessment\Mod2_Self_assessment\bin\Debug\Mod2_Self_assessment.exe
+C:\Users\gregory\source\repos\Mod2_Self_assessment\Mod2_Self_assessment\bin\Debug\Mod2_Self_assessment.pdb
+C:\Users\gregory\source\repos\Mod2_Self_assessment\Mod2_Self_assessment\obj\Debug\Mod2_Self_assessment.csprojAssemblyReference.cache
+C:\Users\gregory\source\repos\Mod2_Self_assessment\Mod2_Self_assessment\obj\Debug\Mod2_Self_assessment.csproj.CoreCompileInputs.cache
+C:\Users\gregory\source\repos\Mod2_Self_assessment\Mod2_Self_assessment\obj\Debug\Mod2_Self_assessment.exe
+C:\Users\gregory\source\repos\Mod2_Self_assessment\Mod2_Self_assessment\obj\Debug\Mod2_Self_assessment.pdb
