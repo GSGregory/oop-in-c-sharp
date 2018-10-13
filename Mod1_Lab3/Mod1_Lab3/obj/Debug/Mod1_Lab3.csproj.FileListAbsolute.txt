@@ -1,0 +1,6 @@
+P:\Local\Edx\oopc#\Mod1_Lab3\Mod1_Lab3\obj\Debug\Mod1_Lab3.csproj.CoreCompileInputs.cache
+P:\Local\Edx\oopc#\Mod1_Lab3\Mod1_Lab3\bin\Debug\Mod1_Lab3.exe.config
+P:\Local\Edx\oopc#\Mod1_Lab3\Mod1_Lab3\bin\Debug\Mod1_Lab3.exe
+P:\Local\Edx\oopc#\Mod1_Lab3\Mod1_Lab3\bin\Debug\Mod1_Lab3.pdb
+P:\Local\Edx\oopc#\Mod1_Lab3\Mod1_Lab3\obj\Debug\Mod1_Lab3.exe
+P:\Local\Edx\oopc#\Mod1_Lab3\Mod1_Lab3\obj\Debug\Mod1_Lab3.pdb

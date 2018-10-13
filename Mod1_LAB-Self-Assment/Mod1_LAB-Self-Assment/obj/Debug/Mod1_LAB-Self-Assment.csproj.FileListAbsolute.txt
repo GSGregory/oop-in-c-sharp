@@ -1,0 +1,7 @@
+P:\Local\Edx\oopc#\Mod1_LAB-Self-Assment\Mod1_LAB-Self-Assment\bin\Debug\Mod1_LAB-Self-Assment.exe.config
+P:\Local\Edx\oopc#\Mod1_LAB-Self-Assment\Mod1_LAB-Self-Assment\bin\Debug\Mod1_LAB-Self-Assment.exe
+P:\Local\Edx\oopc#\Mod1_LAB-Self-Assment\Mod1_LAB-Self-Assment\bin\Debug\Mod1_LAB-Self-Assment.pdb
+P:\Local\Edx\oopc#\Mod1_LAB-Self-Assment\Mod1_LAB-Self-Assment\obj\Debug\Mod1_LAB-Self-Assment.csprojAssemblyReference.cache
+P:\Local\Edx\oopc#\Mod1_LAB-Self-Assment\Mod1_LAB-Self-Assment\obj\Debug\Mod1_LAB-Self-Assment.csproj.CoreCompileInputs.cache
+P:\Local\Edx\oopc#\Mod1_LAB-Self-Assment\Mod1_LAB-Self-Assment\obj\Debug\Mod1_LAB-Self-Assment.exe
+P:\Local\Edx\oopc#\Mod1_LAB-Self-Assment\Mod1_LAB-Self-Assment\obj\Debug\Mod1_LAB-Self-Assment.pdb

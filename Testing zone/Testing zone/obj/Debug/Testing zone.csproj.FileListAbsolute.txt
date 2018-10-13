@@ -1,0 +1,7 @@
+P:\Local\Edx\oopc#\Testing zone\Testing zone\bin\Debug\Testing zone.exe.config
+P:\Local\Edx\oopc#\Testing zone\Testing zone\bin\Debug\Testing zone.exe
+P:\Local\Edx\oopc#\Testing zone\Testing zone\bin\Debug\Testing zone.pdb
+P:\Local\Edx\oopc#\Testing zone\Testing zone\obj\Debug\Testing zone.csprojAssemblyReference.cache
+P:\Local\Edx\oopc#\Testing zone\Testing zone\obj\Debug\Testing zone.csproj.CoreCompileInputs.cache
+P:\Local\Edx\oopc#\Testing zone\Testing zone\obj\Debug\Testing zone.exe
+P:\Local\Edx\oopc#\Testing zone\Testing zone\obj\Debug\Testing zone.pdb

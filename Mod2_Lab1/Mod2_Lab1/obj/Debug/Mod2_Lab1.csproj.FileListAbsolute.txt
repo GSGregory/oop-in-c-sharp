@@ -1,0 +1,7 @@
+P:\Local\Edx\oopc#\Mod2_Lab1\Mod2_Lab1\bin\Debug\Mod2_Lab1.exe.config
+P:\Local\Edx\oopc#\Mod2_Lab1\Mod2_Lab1\bin\Debug\Mod2_Lab1.exe
+P:\Local\Edx\oopc#\Mod2_Lab1\Mod2_Lab1\bin\Debug\Mod2_Lab1.pdb
+P:\Local\Edx\oopc#\Mod2_Lab1\Mod2_Lab1\obj\Debug\Mod2_Lab1.csprojAssemblyReference.cache
+P:\Local\Edx\oopc#\Mod2_Lab1\Mod2_Lab1\obj\Debug\Mod2_Lab1.csproj.CoreCompileInputs.cache
+P:\Local\Edx\oopc#\Mod2_Lab1\Mod2_Lab1\obj\Debug\Mod2_Lab1.exe
+P:\Local\Edx\oopc#\Mod2_Lab1\Mod2_Lab1\obj\Debug\Mod2_Lab1.pdb
